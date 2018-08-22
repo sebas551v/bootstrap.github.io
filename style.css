@@ -1,5 +1,5 @@
 header{
-    background: #195a19;
+    background:#512DA8;
     color: #fff;
 }
 
@@ -58,16 +58,16 @@ header{
 }
 
 .color1{
-    background: #3286639d;
+    background: #512DA8;
     color:#fff;
 }
 
 aside{
-    background: #3ed4309d;
+    background: #512DA8;
     color: #fff;
 }
 
 footer{
-    background: #195a19;
+    background: #673AB7;
     color:#fff;
 }
